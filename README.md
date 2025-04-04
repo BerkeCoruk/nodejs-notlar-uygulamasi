@@ -37,7 +37,7 @@ Node.js bilgisayarınızda kurulu değilse aşağıdaki bağlantıdan indirip ku
 GitHub üzerinden projeyi bilgisayarınıza indirin:
 
 ```bash
-git clone https://github.com/kullanici-adi/nodejs-notlar-uygulamasi.git
+git clone https://github.com/BerkeCoruk/nodejs-notlar-uygulamasi.git
 cd nodejs-notlar-uygulamasi
 ```
 ---
